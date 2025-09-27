@@ -10,7 +10,7 @@ while True:
              #klfjdkjfdksjf
             results = num1 + num2
             print(f"Results: {results}")
-            break
+            break sdsd
         case "2":
             ...
         case "3":
