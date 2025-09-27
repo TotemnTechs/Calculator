@@ -10,9 +10,13 @@ while True:
              #klfjdkjfdksjf
             results = num1 + num2
             print(f"Results: {results}")
-            break sdsd
+            break
         case "2":
-            ...
+            num1 = int(input("Enter First Number: "))
+            num2 = int(input("Enter Second Number: "))
+             #klfjdkjfdksjf
+            results = num1 - num2
+            print(f"Results: {results}")
         case "3":
             ...
         case "4":
